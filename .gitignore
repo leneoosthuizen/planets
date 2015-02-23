@@ -1,1 +1,3 @@
-*.fastq
+#this is a comment
+*.fastq #pattern
+biggie.txt
